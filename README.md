@@ -1,5 +1,7 @@
 # omarchy-adrift-theme
 
+![Preview Image](./preview.png)
+
 Adrift is a simple blue and green dark-ish theme for Omarchy Linux.
 It covers all standard Omarchy apps, Ghostty/Kitty/Alacritty, and VSCode.
 
