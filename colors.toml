@@ -1,0 +1,51 @@
+mode = "dark"
+
+accent = "#a9bfbf"
+selection = "#49736f"
+muted = "#676767"
+
+background = "#1a2927"
+dark_background = "#141f1d"
+darker_background = "#0d1514"
+lighter_background = "#253a36"
+
+foreground = "#ddd6c2"
+dark_foreground = "#676767"
+light_foreground = "#ddd6c2"
+bright_foreground = "#f4eede"
+
+red = "#cb645d"
+yellow = "#bfa26b"
+orange = "#d47553"
+green = "#66987b"
+cyan = "#a9bfbf"
+blue = "#a9bfbf"
+magenta = "#9a5840"
+brown = "#9a5840"
+
+bright_red = "#da5950"
+bright_yellow = "#d9ae60"
+bright_green = "#63b384"
+bright_cyan = "#94d0d0"
+bright_blue = "#94d0d0"
+bright_magenta = "#d47553"
+
+hyprland_active_border = "#a9bfbf"
+hyprland_inactive_border = "#49736f"
+
+# Original Alacritty ANSI slots. color0/color7 are filled from
+# background/foreground when the theme is applied.
+color1 = "#cb645d"
+color2 = "#66987b"
+color3 = "#bfa26b"
+color4 = "#a9bfbf"
+color5 = "#9a5840"
+color6 = "#a9bfbf"
+color8 = "#b5b5b5"
+color9 = "#da5950"
+color10 = "#63b384"
+color11 = "#d9ae60"
+color12 = "#94d0d0"
+color13 = "#d47553"
+color14 = "#94d0d0"
+color15 = "#f4eede"
